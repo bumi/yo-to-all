@@ -1,7 +1,9 @@
 Yo! @all
 ===============
 
-a little app that receives Yo!s and broadcasts it to all subscribers. 
+*Your happy Yo! broadcaster!*
+
+send a Yo! to a configured account and the app sends a Yo! to all the subscribers of the account.
 
 Usage
 ----------
